@@ -5,8 +5,8 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.navigation"
-        minSdkVersion 21
+        applicationId "com.example.navigation"  //defining app id
+        minSdkVersion 21 //defining minimum sdk
         targetSdkVersion 33
         versionCode 1
         versionName "1.0"
