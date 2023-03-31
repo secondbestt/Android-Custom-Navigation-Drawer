@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity
                     case R.id.menu_home :
                     
                     //creating long toast
-                        Toast.makeText(getApplicationContext(),"Home Panel is Open",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Home Panel is Open",Toast.LENGTH_LONG).show(); //creating toast notification
                         drawerLayout.closeDrawer(GravityCompat.START);
                         break;
 
