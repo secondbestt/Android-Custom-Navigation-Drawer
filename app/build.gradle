@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 32
 
 
     defaultConfig {
         applicationId "com.example.navigation"  //defining app id
         minSdkVersion 21 //defining minimum sdk
-        targetSdkVersion 33
+        targetSdkVersion 32
         versionCode 2
         versionName "1.1"
 
