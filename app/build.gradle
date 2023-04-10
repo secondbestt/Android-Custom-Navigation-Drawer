@@ -3,9 +3,9 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 32
 
-
+//initial commit gradle
     defaultConfig {
-        applicationId "com.example.navigation"  //defining app id
+        applicationId "com.example.navigation"   
         minSdkVersion 21 //defining minimum sdk
         targetSdkVersion 32
         versionCode 2
